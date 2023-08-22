@@ -1,0 +1,654 @@
+{
+    "sands": {
+        "HP%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "ATK%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "DEF%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "Energy Recharge%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "Elemental Mastery": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        }
+    },
+    "feather": {
+        "ATK": {
+            "substats": [
+                "ATK",
+                "DEF",
+                "HP%",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.79,
+                15.79,
+                10.53,
+                10.53,
+                10.53,
+                10.53,
+                10.53,
+                7.89,
+                7.89
+            ]
+        }
+    },
+    "flower": {
+        "HP": {
+            "substats": [
+                "ATK",
+                "DEF",
+                "HP%",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.79,
+                15.79,
+                10.53,
+                10.53,
+                10.53,
+                10.53,
+                10.53,
+                7.89,
+                7.89
+            ]
+        }
+    },
+    "circlet": {
+        "HP%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "ATK%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "DEF%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "CRIT Rate%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                14.63,
+                14.63,
+                14.63,
+                9.76,
+                9.76,
+                9.76,
+                9.76,
+                9.76,
+                7.32
+            ]
+        },
+        "CRIT DMG%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%"
+            ],
+            "probs": [
+                14.63,
+                14.63,
+                14.63,
+                9.76,
+                9.76,
+                9.76,
+                9.76,
+                9.76,
+                7.32
+            ]
+        },
+        "Healing Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "HP%",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Elemental Mastery": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        }
+    },
+    "goblet": {
+        "HP%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "ATK%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "DEF%": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        },
+        "Pyro DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Electro DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Cryo DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Hydro DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Dendro DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Anemo DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Geo DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Physical DMG Bonus": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "Elemental Mastery",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                13.64,
+                13.64,
+                13.64,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                9.09,
+                6.82,
+                6.82
+            ]
+        },
+        "Elemental Mastery": {
+            "substats": [
+                "HP",
+                "ATK",
+                "DEF",
+                "ATK%",
+                "HP%",
+                "DEF%",
+                "Energy Recharge%",
+                "CRIT Rate%",
+                "CRIT DMG%"
+            ],
+            "probs": [
+                15.0,
+                15.0,
+                15.0,
+                10.0,
+                10.0,
+                10.0,
+                10.0,
+                7.5,
+                7.5
+            ]
+        }
+    }
+}

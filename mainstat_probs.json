@@ -1,0 +1,84 @@
+{
+    "sands": {
+        "stats": [
+            "HP%",
+            "ATK%",
+            "DEF%",
+            "Energy Recharge%",
+            "Elemental Mastery"
+        ],
+        "probs": [
+            26.68,
+            26.66,
+            26.66,
+            10,
+            10
+        ]
+    },
+    "goblet": {
+        "stats": [
+            "HP%",
+            "ATK%",
+            "DEF%",
+            "Pyro DMG Bonus",
+            "Electro DMG Bonus",
+            "Cryo DMG Bonus",
+            "Hydro DMG Bonus",
+            "Dendro DMG Bonus",
+            "Anemo DMG Bonus",
+            "Geo DMG Bonus",
+            "Physical DMG Bonus",
+            "Elemental Mastery"
+        ],
+        "probs": [
+            19.25,
+            19.25,
+            19,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            2.5
+        ]
+    },
+    "circlet": {
+        "stats": [
+            "HP%",
+            "ATK%",
+            "DEF%",
+            "CRIT Rate%",
+            "CRIT DMG%",
+            "Healing Bonus",
+            "Elemental Mastery"
+        ],
+        "probs": [
+            22,
+            22,
+            22,
+            10,
+            10,
+            10,
+            4
+        ]
+    },
+    "flower": {
+        "stats": [
+            "HP"
+        ],
+        "probs": [
+            100
+        ]
+    },
+    "feather": {
+        "stats": [
+            "ATK"
+        ],
+        "probs": [
+            100
+        ]
+    }
+}
